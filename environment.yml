@@ -1,0 +1,17 @@
+name: edna
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pandas
+  - fastqc
+  - blast
+  - seqtk
+  - numpy
+  - cutadapt
+  - matplotlib
+  - sra-tools
+  - vsearch
+  - kraken2
+prefix: /home/lksh/miniconda3/envs/edna
